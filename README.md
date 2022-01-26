@@ -1,5 +1,7 @@
 # DEV10: Designing Resilient Cloud Applications
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/3ee04432-62fe-4ee9-a81f-9c905ab113cc.svg?orgId=568518005652)](https://app.soluble.cloud/repos/details/github.com/marcosgm/ignite-tour-lp1s1?orgId=568518005652)  
+
 ![Build status](https://dev.azure.com/devrel/Ignite-Tour-LP1S1/_apis/build/status/LP1S1%20Build)
 
 This session introduces Tailwind Traders and the application that you'll see in other demos in this tour. You'll also learn about how to build resilient cloud applications at global scale that will withstand failures in sections.
